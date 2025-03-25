@@ -48,7 +48,7 @@ def BinarySearchIterative(orderedList, term):
         
 
 
-# def BinarySearchRecursive()
+def BinarySearchRecursive()
 
 
 
@@ -64,3 +64,5 @@ myOrderedList = [2, 3, 4, 6, 7, 9]
 
 idx = BinarySearchIterative(myOrderedList, 7)
 print(idx)
+
+print('test')
